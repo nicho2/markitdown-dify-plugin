@@ -1,8 +1,8 @@
 identity:
-  author: yevanchen
-  name: markitdown
+  author: yevanchen/suchaud
+  name: markitdown_unsafe
   label:
-    en_US: markitdown
+    en_US: markitdown_unsafe
     zh_Hans: markitdown
     pt_BR: markitdown
   description:
